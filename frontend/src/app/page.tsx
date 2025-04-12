@@ -607,7 +607,7 @@ const Page = () => {
                            </div>
                         </div>
                         <p className="text-gray-700 mb-6 italic">
-                           "{testimonial.content}"
+                           &quot;{testimonial.content}	&quot;
                         </p>
                         <div className="flex items-center">
                            <div className="w-10 h-10 rounded-full bg-indigo-100 flex items-center justify-center text-indigo-600 mr-3">
